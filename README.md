@@ -6,3 +6,5 @@ The objective is to develop a classification algorythm to identify land parcels 
 
 More details can be found under the Wiki https://github.com/bevancole/WP_PV_Image_Analysis/wiki
 
+
+
